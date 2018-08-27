@@ -41,3 +41,4 @@ It re-creates a folder named *dist* on the root directory. This is where the com
 ## Dependencies
 
 * [Lodash](https://lodash.com) (for easy manipulation of arrays, numbers, objects, strings, etc.)
+* [npm-run-all](https://www.npmjs.com/package/npm-run-all) (A CLI tool to run multiple npm-scripts in parallel or sequential.)
