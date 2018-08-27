@@ -30,3 +30,14 @@ npm run build
 ```
 
 It re-creates a folder named *dist* on the root directory. This is where the compiled node.js code resides.
+
+
+## Technology Stack
+
+* [ES6](http://es6-features.org/#Constants) (Babel)
+* [Node.js](https://nodejs.org/en) (Node.js)
+* [Typescript](https://www.typescriptlang.org) (Typescript)
+
+## Dependencies
+
+* [Lodash](https://lodash.com) (for easy manipulation of arrays, numbers, objects, strings, etc.)
