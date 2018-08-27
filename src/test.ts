@@ -1,7 +1,7 @@
 import { db } from './OfflineDatabase';
 
 // Create a new user object and display the id
-let id = db.ref('users').push({ name: ​"Bob"​, email: "alice@email.com" });
+let id = db.ref('users').push({ name: ​"Alice"​, email: "alice@email.com" });
 console.log(id);
 
 // Create a new user object and display the id
