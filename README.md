@@ -1,4 +1,4 @@
-# Schema Technical Challenge
+# Offline DB
 
 An offline database for an existing Node.js backend server
 
